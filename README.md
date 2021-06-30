@@ -6,7 +6,8 @@ Cada vez mais encantada pela Ciência de Dados
 GIF
 
 💻 Aprendiz de Data Science;
-☕ Apaixonada por Café, Violão e Gatos;
+☕ Apaixonada por Café,
+Violão e Gatos;
 📚 Sempre em busca de novos conhecimentos;
 💬 Pergunte-me sobre qualquer coisa que você quiser;
 🎓
