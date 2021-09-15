@@ -1,9 +1,5 @@
 Olá, Me chamo Rosane Ananias. 👋
 
-
-Devo confessar... Estou cada vez mais apaixonada pela Ciência de Dados
-
-
 💻 Aprendiz de Data Science;
 ☕ Apaixonada por Café,
     Violão e Gatos;
